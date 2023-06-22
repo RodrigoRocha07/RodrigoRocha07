@@ -1,6 +1,5 @@
 ## Olá!! Eu sou o Rodrigo Rocha!
- - Hoje trabalho com testes de software
- - Estudando JavaScript
+ - Estudando Python e Flutter
  
  <div align="center">
   <a href="https://github.com/rodrigorocha07">
